@@ -1,5 +1,5 @@
-🎮 Jeopardy Game System 🎉
-
+# 🎮 Jeopardy Game System 🎉
+---
 🚀 Overview
 
 This project implements a Jeopardy game system in Assembly Language, designed to create an exciting and competitive quiz environment with real-time buzzer functionality. The system ensures fairness and clear indication of the first player to respond during gameplay. 🕹️✨
